@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+sentence-transformers
+numpy
+sqlite3
+requests
